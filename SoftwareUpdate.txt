@@ -1,1 +1,1 @@
-OBB Docs updates (#7568)
+Fix TypeError in check_cfg() (#9245)
